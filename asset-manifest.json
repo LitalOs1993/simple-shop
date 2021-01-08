@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/simple-shop/static/css/main.03f9b1f0.chunk.css",
+    "main.js": "/simple-shop/static/js/main.e747e7af.chunk.js",
+    "main.js.map": "/simple-shop/static/js/main.e747e7af.chunk.js.map",
+    "runtime-main.js": "/simple-shop/static/js/runtime-main.7c3ae33e.js",
+    "runtime-main.js.map": "/simple-shop/static/js/runtime-main.7c3ae33e.js.map",
+    "static/js/2.79ade537.chunk.js": "/simple-shop/static/js/2.79ade537.chunk.js",
+    "static/js/2.79ade537.chunk.js.map": "/simple-shop/static/js/2.79ade537.chunk.js.map",
+    "static/js/3.7f85c6e5.chunk.js": "/simple-shop/static/js/3.7f85c6e5.chunk.js",
+    "static/js/3.7f85c6e5.chunk.js.map": "/simple-shop/static/js/3.7f85c6e5.chunk.js.map",
+    "index.html": "/simple-shop/index.html",
+    "static/css/main.03f9b1f0.chunk.css.map": "/simple-shop/static/css/main.03f9b1f0.chunk.css.map",
+    "static/js/2.79ade537.chunk.js.LICENSE.txt": "/simple-shop/static/js/2.79ade537.chunk.js.LICENSE.txt",
+    "static/media/Background.fc8d3ec3.jpg": "/simple-shop/static/media/Background.fc8d3ec3.jpg",
+    "static/media/cart.5bb58d5a.PNG": "/simple-shop/static/media/cart.5bb58d5a.PNG",
+    "static/media/coat.79cc6378.png": "/simple-shop/static/media/coat.79cc6378.png",
+    "static/media/dress.18cd8c79.png": "/simple-shop/static/media/dress.18cd8c79.png",
+    "static/media/girl.cd4a10ee.png": "/simple-shop/static/media/girl.cd4a10ee.png",
+    "static/media/girlChoose.24ab315e.png": "/simple-shop/static/media/girlChoose.24ab315e.png",
+    "static/media/plus.f5fb817a.png": "/simple-shop/static/media/plus.f5fb817a.png",
+    "static/media/scarf.5053efcd.png": "/simple-shop/static/media/scarf.5053efcd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c3ae33e.js",
+    "static/js/2.79ade537.chunk.js",
+    "static/css/main.03f9b1f0.chunk.css",
+    "static/js/main.e747e7af.chunk.js"
+  ]
+}
